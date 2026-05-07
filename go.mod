@@ -1,4 +1,4 @@
-module clevergo.tech/jsend
+module github.com/BhautikChudasama/jsend
 
 go 1.13
 
